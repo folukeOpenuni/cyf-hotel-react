@@ -16,7 +16,7 @@ const TouristInfoCards = props => {
             bulk of the card's content.
           </p>
           <a href={props.link} className="btn btn-primary">
-            Go somewhere
+            Visit {props.title}
           </a>
         </div>
       </div>
